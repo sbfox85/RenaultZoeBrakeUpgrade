@@ -9,9 +9,9 @@ I created a 2 part adapter. One is the Aluminium backplate which incorporates th
 
 | Front Of Rear Plate  | Back of Rear Plate | Caliper Mounting | Caliper Mounting |
 | ------------- | ------------- | ------------ | ----------- |
-| <img width="310" height="285" alt="Screenshot from 2026-02-13 14-53-12" src="https://github.com/user-attachments/assets/eb981b9c-850d-4b37-a776-4287b008c54e" /> | <img width="310" height="285" alt="Screenshot from 2026-02-13 14-53-23" src="https://github.com/user-attachments/assets/c3e4070c-ed82-4e5b-b4a1-2e24117d2421" />
-| <img width="502" height="285" alt="image" src="https://github.com/user-attachments/assets/bb7d1d1c-cdd7-4b89-842e-5241d8d60104" />
-| <img width="330" height="285" alt="image" src="https://github.com/user-attachments/assets/02f22ccd-a841-4aa0-b3be-49fba1199351" /> |
+| <img width="310" height="200" alt="Screenshot from 2026-02-13 14-53-12" src="https://github.com/user-attachments/assets/eb981b9c-850d-4b37-a776-4287b008c54e" /> | <img width="310" height="200" alt="Screenshot from 2026-02-13 14-53-23" src="https://github.com/user-attachments/assets/c3e4070c-ed82-4e5b-b4a1-2e24117d2421" />
+| <img width="502" height="200" alt="image" src="https://github.com/user-attachments/assets/bb7d1d1c-cdd7-4b89-842e-5241d8d60104" />
+| <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/02f22ccd-a841-4aa0-b3be-49fba1199351" /> |
 
 
 
